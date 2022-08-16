@@ -1,5 +1,5 @@
 <div align="center">
-# Proxyless Spotify Follow Bot
+#Proxyless Spotify Follow Bot
 </div>
 
 ### Usage
