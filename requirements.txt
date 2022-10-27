@@ -2,3 +2,4 @@ colorama==0.4.4
 names==0.3.0
 requests==2.22.0
 pywin32==304
+wmi==1.5.1
